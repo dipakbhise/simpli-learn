@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/simpli-learn/static/css/main.a617e044.chunk.css",
-    "main.js": "/simpli-learn/static/js/main.c7d48435.chunk.js",
-    "main.js.map": "/simpli-learn/static/js/main.c7d48435.chunk.js.map",
-    "runtime-main.js": "/simpli-learn/static/js/runtime-main.0809849f.js",
-    "runtime-main.js.map": "/simpli-learn/static/js/runtime-main.0809849f.js.map",
-    "static/js/2.b673f020.chunk.js": "/simpli-learn/static/js/2.b673f020.chunk.js",
-    "static/js/2.b673f020.chunk.js.map": "/simpli-learn/static/js/2.b673f020.chunk.js.map",
-    "static/js/3.7e5e53fd.chunk.js": "/simpli-learn/static/js/3.7e5e53fd.chunk.js",
-    "static/js/3.7e5e53fd.chunk.js.map": "/simpli-learn/static/js/3.7e5e53fd.chunk.js.map",
+    "main.css": "/simpli-learn/static/css/main.b09a9eb0.chunk.css",
+    "main.js": "/simpli-learn/static/js/main.a141a36f.chunk.js",
+    "main.js.map": "/simpli-learn/static/js/main.a141a36f.chunk.js.map",
+    "runtime-main.js": "/simpli-learn/static/js/runtime-main.531e305f.js",
+    "runtime-main.js.map": "/simpli-learn/static/js/runtime-main.531e305f.js.map",
+    "static/css/2.818011ed.chunk.css": "/simpli-learn/static/css/2.818011ed.chunk.css",
+    "static/js/2.94da2df4.chunk.js": "/simpli-learn/static/js/2.94da2df4.chunk.js",
+    "static/js/2.94da2df4.chunk.js.map": "/simpli-learn/static/js/2.94da2df4.chunk.js.map",
     "index.html": "/simpli-learn/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/simpli-learn/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b673f020.chunk.js.LICENSE.txt": "/simpli-learn/static/js/2.b673f020.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/simpli-learn/static/media/logo.6ce24c58.svg"
+    "static/css/2.818011ed.chunk.css.map": "/simpli-learn/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.b09a9eb0.chunk.css.map": "/simpli-learn/static/css/main.b09a9eb0.chunk.css.map",
+    "static/js/2.94da2df4.chunk.js.LICENSE.txt": "/simpli-learn/static/js/2.94da2df4.chunk.js.LICENSE.txt",
+    "static/media/Middle.css": "/simpli-learn/static/media/laptop.b7ce2df6.png",
+    "static/media/university-d-v1.15f9e918.png": "/simpli-learn/static/media/university-d-v1.15f9e918.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0809849f.js",
-    "static/js/2.b673f020.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.c7d48435.chunk.js"
+    "static/js/runtime-main.531e305f.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.94da2df4.chunk.js",
+    "static/css/main.b09a9eb0.chunk.css",
+    "static/js/main.a141a36f.chunk.js"
   ]
 }
