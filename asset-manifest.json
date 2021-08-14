@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/simpli-learn/static/css/main.b09a9eb0.chunk.css",
-    "main.js": "/simpli-learn/static/js/main.0c98b551.chunk.js",
-    "main.js.map": "/simpli-learn/static/js/main.0c98b551.chunk.js.map",
+    "main.js": "/simpli-learn/static/js/main.4141f1bc.chunk.js",
+    "main.js.map": "/simpli-learn/static/js/main.4141f1bc.chunk.js.map",
     "runtime-main.js": "/simpli-learn/static/js/runtime-main.531e305f.js",
     "runtime-main.js.map": "/simpli-learn/static/js/runtime-main.531e305f.js.map",
     "static/css/2.818011ed.chunk.css": "/simpli-learn/static/css/2.818011ed.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.e34e8722.chunk.js",
     "static/css/main.b09a9eb0.chunk.css",
-    "static/js/main.0c98b551.chunk.js"
+    "static/js/main.4141f1bc.chunk.js"
   ]
 }
